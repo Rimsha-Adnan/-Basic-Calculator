@@ -20,7 +20,7 @@
 
 </ul>
 
-<h1>Licens>📍/h1?
+<h1>Licens>📍</h1?
 This project is licensed under the SIC License. See LICENSE.md for details.
 
 <h1>THANK YOU SO MUCH FOR CHECK MY REPO ❤️</h1>
